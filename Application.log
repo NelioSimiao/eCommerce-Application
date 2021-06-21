@@ -1,0 +1,22 @@
+2021-06-20 18:59:14 INFO  UserController:55 - Creating userNelio was create successfully 
+2021-06-20 18:59:32 INFO  UserController:55 - Creating userNelio S was create successfully 
+2021-06-20 19:03:54 INFO  UserController:55 - Creating user nelio was create successfully 
+2021-06-20 19:04:35 INFO  UserController:55 - Creating user nelio was create successfully 
+2021-06-20 19:05:44 INFO  OrderController:42 - The order of user nelio was successfully created 
+2021-06-20 19:05:54 INFO  OrderController:42 - The order of user nelio was successfully created 
+2021-06-20 19:08:24 INFO  OrderController:42 - The order of user nelio was successfully created 
+2021-06-20 19:09:01 INFO  OrderController:42 - The order of user nelio was successfully created 
+2021-06-20 19:09:13 ERROR OrderController:36 - The order of user nelios was failed to created because user does not exist 
+2021-06-20 19:09:24 ERROR OrderController:36 - The order of user nelios was failed to created because user does not exist 
+2021-06-20 19:09:39 INFO  UserController:55 - Creating user nelio Simiao was create successfully 
+2021-06-20 19:10:32 ERROR UserController:50 - Error with password Cannot create user nelio Simiao
+2021-06-20 19:10:37 ERROR UserController:50 - Error with password Cannot create user nelio Simiao
+2021-06-20 19:10:38 ERROR UserController:50 - Error with password Cannot create user nelio Simiao
+2021-06-20 19:10:39 ERROR UserController:50 - Error with password Cannot create user nelio Simiao
+2021-06-20 19:13:21 ERROR OrderController:36 - The order of user nelioy was failed to created because user does not exist 
+2021-06-20 19:13:29 ERROR OrderController:36 - The order of user nelios was failed to created because user does not exist 
+2021-06-20 19:13:33 ERROR OrderController:36 - The order of user nelios was failed to created because user does not exist 
+2021-06-20 19:13:33 ERROR OrderController:36 - The order of user nelios was failed to created because user does not exist 
+2021-06-20 19:13:33 ERROR OrderController:36 - The order of user nelios was failed to created because user does not exist 
+2021-06-20 19:14:15 ERROR OrderController:36 - The order of user nelios was failed to created because user does not exist 
+2021-06-20 19:14:41 ERROR UserController:50 - Error with password Cannot create user nelio Simiao Muchisse
