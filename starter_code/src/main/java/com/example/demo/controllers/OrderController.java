@@ -33,13 +33,13 @@ public class OrderController {
 	public ResponseEntity<UserOrder> submit(@PathVariable String username) {
 		User user = userRepository.findByUsername(username);
 		if(user == null) {
-			logger.error("The order of user " +username+ " was failed to created because user does not exist ");
+			logger.error(" Error creating  order for username : " +username+ " because user does not exist ");
 			return ResponseEntity.notFound().build();
 
 		}
 		UserOrder order = UserOrder.createFromCart(user.getCart());
 		orderRepository.save(order);
-		logger.info("The order of user "+username+" was successfully created ");
+		logger.info(" Success creating  order for username : "+username);
 
 		return ResponseEntity.ok(order);
 	}
