@@ -28,3 +28,11 @@
 2021-06-24 00:23:53 ERROR OrderController:36 -  Error creating  order for username : Nelioa because user does not exist 
 2021-06-24 00:23:54 ERROR OrderController:36 -  Error creating  order for username : Nelioa because user does not exist 
 2021-06-24 00:23:54 ERROR OrderController:36 -  Error creating  order for username : Nelioa because user does not exist 
+2021-06-24 00:57:53 ERROR OrderController:36 -  Error creating  order for username : Nelioa because user does not exist 
+2021-06-24 00:58:09 INFO  UserController:55 -  Success creating user  with username :Nelio
+2021-06-24 18:49:11 INFO  UserController:55 -  Success creating user  with username :Nelio
+2021-06-24 18:58:50 INFO  UserController:55 -  Success creating user  with username :Nelio
+2021-06-24 21:36:14 INFO  UserController:55 -  Success creating user  with username :Nelio
+2021-06-24 21:38:47 INFO  UserController:55 -  Success creating user  with username :Nelio
+2021-06-24 21:53:27 INFO  UserController:55 -  Success creating user  with username :Nelio
+2021-06-24 22:10:55 INFO  UserController:55 -  Success creating user  with username :Nelio
